@@ -1,0 +1,31 @@
+import 'package:flutter/material.dart';
+
+const colorButtonNeutral = Color(0xFF4838D1);
+const colorAccent50= Color(0xFFF77A55);
+const colorPrimary40= Color(0xFF7466E3);
+const colorPrimary50= Color(0xFF4838D1);
+const colorNeutral80= Color(0xFF2E2E5D);
+const colorBlack= Color(0x00000000);
+const colorPrimaryOrange100= Color(0xFFF77A55);
+const colorSuccess100 = Color(0xff67C23A);
+const colorInfo100 = Color(0xffF4F4F5);
+const colorWhite = Color(0xffffffff);
+const colorNeutralDark40 = Color(0xff999AA7);
+const colorNeutralDark20 = Color(0xffCCCCD3);
+const colorNeutralDark10 = Color(0xffE6E6E9);
+const colorNeutralDark5 = Color(0xffF2F2F4);
+const colorPrimaryBrand100 = Color(0xff203E8E);
+const colorPrimaryBrand80 = Color(0xff4D65A5);
+const colorPrimaryBrand60 = Color(0xff798BBB);
+const colorPrimaryBrand40 = Color(0xffA6B2D2);
+const colorPrimaryBrand20 = Color(0xffD2D8E8);
+const colorPrimaryBrand10 = Color(0xffE9ECF4);
+const colorPrimaryBrand5 = Color(0xffF4F5F9);
+const colorSemanticRed100 = Color(0xffFF1C1C);
+const colorSemanticRed80 = Color(0xffFF4949);
+const colorSemanticRed60 = Color(0xffFF7777);
+const colorSemanticRed40 = Color(0xffFFA4A4);
+const colorSemanticRed10 = Color(0xffFFE9E9);
+const colorNeutralDark100 = Color(0xff000323);
+const colorPrimaryGreen100 = Color(0xff203E8E);
+
